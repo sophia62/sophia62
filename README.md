@@ -14,7 +14,7 @@ Lover of languages! -English -Chinese Portuguese
 <h2> 👨‍💻 Projects:</h2>
 
 - **Machine Learning**
-  - [AI Banking Project](https://github.com/sophia62/AI-Banking-Project))
+  - [AI Banking Project](https://github.com/sophia62/AI-Banking-Project)
   - [Machine Learning Housing Prices](https://github.com/sophia62/Machine-Learning-Housing)
  
 - **Data Analytics**
